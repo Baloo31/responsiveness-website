@@ -127,7 +127,6 @@ body {
 
 .grid-description {
   font-size: 1em;
-  color: #7f8c8d;
   margin-top: 10px;
   border-left: 4px solid rgb(221, 154, 28);
   padding: 10px 20px;
@@ -220,7 +219,6 @@ body {
   transition: background-color 0.3s, transform 0.3s;
   width: 80%;
   margin: 20px auto;
-  text-align: justify;
 }
 
 .contexts-paragraph:hover {
@@ -230,10 +228,6 @@ body {
 
 .contexts-paragraph p {
   margin: 0;
-}
-
-.justified-paragraph {
-  text-align: justify;
 }
 
 /* Scroll to Top Button */
@@ -350,7 +344,7 @@ body {
 }
 .front {
   background-color: rgb(221, 154, 28);
-  color: white;
+  color: black;
 }
 .back {
   background-color: rgb(221, 154, 28);
@@ -365,7 +359,7 @@ body {
 /* White Space and Alignment */
 .footer {
   background-color: rgb(221, 154, 28);
-  color: #e0e0e0;
+  color: black;
   text-align: center;
   padding: 10px;
   position: relative;
